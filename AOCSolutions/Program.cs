@@ -10,7 +10,9 @@ namespace AdventOfCode2020
             // SolutionDay1Challange2.Run();
             // SolutionDay2Challange1.Run();
             // SolutionDay2Challange2.Run();
-            await Day4Challange1.Run();
+            // await Day4Challange1.Run();
+            Day4Challange2.Run();
+
         }
     }
 }

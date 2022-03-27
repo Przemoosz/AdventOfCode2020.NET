@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOCSolutions", "AOCSolutions\AOCSolutions.csproj", "{A978A4FB-0C73-47E0-B158-707D6C4CA415}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallangesTests", "ChallangesTests\ChallangesTests.csproj", "{A3DB2E1E-8CBC-4820-9594-0A83C309A3A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A978A4FB-0C73-47E0-B158-707D6C4CA415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A978A4FB-0C73-47E0-B158-707D6C4CA415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A978A4FB-0C73-47E0-B158-707D6C4CA415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3DB2E1E-8CBC-4820-9594-0A83C309A3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DB2E1E-8CBC-4820-9594-0A83C309A3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DB2E1E-8CBC-4820-9594-0A83C309A3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DB2E1E-8CBC-4820-9594-0A83C309A3A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
